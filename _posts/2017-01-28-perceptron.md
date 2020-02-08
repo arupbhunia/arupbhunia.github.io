@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "First Project"
+date: 2017-01-28
+tags: [data wrangling, data science, messy data, markdown tutorial]
 header:
   image: "/images/perceptron/percept.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
